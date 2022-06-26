@@ -1,0 +1,18 @@
+body{
+    background-image: linear-gradient(90deg, white, #2eacd4);
+    font-family: 'Times New Roman', Times, serif;
+}
+#paraFunc{
+    color: rgb(0, 0, 0);
+}
+#paraFunc2{
+    color: rgb(16, 178, 184);
+    font-style: italic;
+    text-decoration: underline;
+}
+
+#countdownStatus{
+    color: red;
+    font-style: oblique;
+    font-size: 150%;
+}
